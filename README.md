@@ -1,6 +1,6 @@
 # Notes App
 
-ViaNotes adalah aplikasi catatan yang memudahkan Anda mencatat dengan sederhana. Dengan antarmuka simpel dan mode gelap, ViaNotes memastikan semua ide Anda tersimpan aman dan mudah diakses kapan saja. Backend RestApi aplikasi ini dibangun menggunakan Laravel untuk memastikan performa tinggi dan keamanan data yang optimal.
+ViaNotes adalah aplikasi catatan yang memudahkan Anda mencatat dengan sederhana. Dengan antarmuka simpel dan mode gelap, ViaNotes memastikan semua ide Anda tersimpan aman dan mudah diakses kapan saja. Backend RestApi mySql aplikasi ini dibangun menggunakan Laravel untuk memastikan performa tinggi dan keamanan data yang optimal.
 
 ## Instalasi
 
