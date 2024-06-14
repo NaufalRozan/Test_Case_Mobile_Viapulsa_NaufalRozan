@@ -1,4 +1,4 @@
-# Nama Proyek Flutter
+# Notes App
 
 Deskripsi singkat tentang proyek kamu.
 
