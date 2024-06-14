@@ -1,6 +1,6 @@
 # Notes App
 
-Deskripsi singkat tentang proyek kamu.
+ViaNotes adalah aplikasi catatan yang memudahkan Anda mencatat dengan sederhana. Dengan antarmuka simpel dan mode gelap, ViaNotes memastikan semua ide Anda tersimpan aman dan mudah diakses kapan saja. Backend RestApi aplikasi ini dibangun menggunakan Laravel untuk memastikan performa tinggi dan keamanan data yang optimal.
 
 ## Instalasi
 
@@ -26,4 +26,4 @@ Sebelum memulai, pastikan telah menginstal dan mengatur Flutter di lingkungan pe
 3. **Menjalankan Aplikasi**
 
     ```bash
-    flutter pub get
+    flutter run
